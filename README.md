@@ -21,7 +21,7 @@ To set up the application locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Anshul194/Worko.ai.userManagement.git
     ```
 
 2. **Install dependencies:**
